@@ -5,6 +5,8 @@ public class nihao1 {
 		System.out.println("llloooooo101111111111111111");
 		System.out.println("llloooooo101111111111111111");
 		System.out.println("llloooooo101111111111111111");
+		System.out.println("llloooooo101111111111111111");
+		System.out.println("llloooooo101111111111111111");
 	}
 
 }
